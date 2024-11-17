@@ -1,0 +1,3 @@
+[submodule "layerzero-tokens"]
+	path = layerzero-tokens
+	url = https://github.com/DegenerativesOrg/layerzero-tokens.git
